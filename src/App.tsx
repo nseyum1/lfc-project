@@ -1,4 +1,6 @@
-import React, { useMemo, useState } from "react";
+
+import { useMemo, useState } from "react";
+
 
 // =============================================
 // LFC Project – Newcomer Support Hub (Pure Tailwind v4)
